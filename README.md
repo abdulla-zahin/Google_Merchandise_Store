@@ -94,58 +94,19 @@ This project presents an analysis of the **Google Merchandise Store** using hist
 
 > **Figure 5:** Snapshot of user engagement, new users, and revenue growth over the last 12 months.
 
-### User Demographics
-![image](https://github.com/user-attachments/assets/bb356878-504b-42b6-bc5b-2ed2bae64da6)
-![image](https://github.com/user-attachments/assets/9f84f61a-58a6-4533-b211-f817d1796d0b)
-
-> **Figure 6:** Breakdown of users by city, gender, and interests, highlighting the key target audience.
-
-### Age and Language Analysis
-![image](https://github.com/user-attachments/assets/cfa44f26-0334-4662-ae37-9a3d0538cac2)
-
-> **Figure 7:** Distribution of users by age range and language preferences.
-
-### Country-wise Engagement and Revenue
-![image](https://github.com/user-attachments/assets/66f5e465-acf0-4e55-9d60-c378cc407ba4)
-
-> **Figure 8:** Engagement and revenue metrics across top-performing countries.
-
 ### User Technology
 ![image](https://github.com/user-attachments/assets/5229ec3c-7bb9-4c20-9884-1e37a88038a5)
-> **Figure 9:** Snapshot of Tech Overview, users in the last 45 minutes, and operating systems.
-
-### Platform and Device Used
-![image](https://github.com/user-attachments/assets/ab45261b-cb1e-4e2a-a1ba-a4766f8d1b28)
-> **Figure 10:** Distribution of users by platforms, website and device preferences.
-
-### Screen Resolutions used by users
-![image](https://github.com/user-attachments/assets/45036b83-ee84-4b65-8e2a-2ae044a083f7)
-> **Figure 11:** Screen resolutions used by users.
-
-### Browser-wise engagement and engagement rate
-![image](https://github.com/user-attachments/assets/85b924f4-40de-4bae-b5dd-6e010f5fefd3)
-> **Figure 12:** Snapshot of users, engagement sessions and engagement rate across browsers.
+> **Figure 6:** Snapshot of Tech Overview, users in the last 45 minutes, and operating systems.
 
 ### Acquisitions
 ![image](https://github.com/user-attachments/assets/2f96fb20-6b20-431a-af1b-58080c0fe5cd)
-> **Figure 13:** Snapshot of Acquisitions by users for a time period of 6 months
-> ![image](https://github.com/user-attachments/assets/83e478a2-3a20-41a0-afa7-ee00e50eba2e)
+> **Figure 7:** Snapshot of Acquisitions by users for a time period of 6 months
+
 
 
 ### Engagement
 ![image](https://github.com/user-attachments/assets/653dc252-9b6f-4e39-b8ad-428c7be95007)
-> **Figure 14:** Snapshot of engagement by users for a time period of 6 months
-### Page title and screen class with users
-![image](https://github.com/user-attachments/assets/e0d29cc9-eabe-4620-b292-3973207e831a)
-![image](https://github.com/user-attachments/assets/3138eb7b-84b0-4008-8601-eac041ca16d0)
-![image](https://github.com/user-attachments/assets/057ac3a5-ea46-4d6e-9225-700479f5769a)
-> **Figure 15:** Snapshot of engagement by users for Page title and screen class with users
-### Monetization 
-![image](https://github.com/user-attachments/assets/73a4c9c6-fd0c-4108-88ed-eb2192eed6b8)
-> **Figure 16:** Total revenue generated within 6 months. 
-![image](https://github.com/user-attachments/assets/b622395e-3111-4ca4-9c14-3e5f116977ad)
-> **Figure 17:** Average purchase revenue per user within 6 months. 
-![image](https://github.com/user-attachments/assets/a7b8dc10-43d3-456a-9cd9-89e87d9290b2)
+> **Figure 8:** Snapshot of engagement by users for a time period of 6 months
 
 
 
@@ -184,42 +145,12 @@ To address user pain points and enhance the overall shopping experience, the fol
 6. **UI/UX Improvements**:
    - Implement proposed wireframes and iterate based on A/B test results.
 
----
-
-## 📁 Repository Structure
-```
-/Google-Merchandise-Analysis
-│
-├── README.md
-├── Data
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── Analysis
-│   ├── marketing_metrics_analysis.ipynb
-│   └── visualizations
-├── Graphs
-│   ├── traffic_comparison.png
-│   ├── revenue_per_user.png
-│   ├── performance_overview.png
-│   ├── user_demographics.png
-│   ├── age_language_analysis.png
-│   ├── country_engagement_revenue.png
-│   ├── social_sentiment_reach.png
-│   ├── top_interests.png
-│   ├── media_type_share.png
-│   ├── related_topics.png
-│   └── other_visualizations.png
-├── Reports
-│   ├── executive_summary.pdf
-│   └── full_analysis.pdf
-└── LICENSE
-```
 
 ---
 
 ## 🔗 Links
 - [Google Merchandise Store Dataset](https://support.google.com/analytics/answer/6367342?hl=en)
-- [Detailed Report](Reports/full_analysis.pdf)
+- [Detailed Report](https://github.com/abdulla-zahin/Google_Merchandise_Store/blob/main/marketing_metrics-zahin_1_.pdf)
 - [GA4](https://analytics.google.com/)  
 
 ---
