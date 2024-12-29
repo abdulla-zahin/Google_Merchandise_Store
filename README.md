@@ -1,5 +1,7 @@
 # 🛍️ Google Merchandise Store Analysis
 
+![image](https://github.com/user-attachments/assets/ab985b7d-3a29-4539-9aa7-93d5ea9f69db)
+
 ## 🌟 Project Overview
 This project presents an analysis of the **Google Merchandise Store** using historical data to evaluate marketing performance, customer behavior, and sales trends. The study focuses on deriving actionable insights to optimize marketing strategies, enhance revenue generation, and understand competitive positioning.
 
